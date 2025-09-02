@@ -9,13 +9,13 @@ import { deepClone } from "lib/deep-clone";
 
 export const END_HOME_RESUME: Resume = {
   profile: {
-    name: "John Doe",
+    name: "Ashish Salve",
     summary:
       "Software engineer obsessed with building exceptional products that people love",
-    email: "hello@openresume.com",
-    phone: "123-456-7890",
+    email: "contact@ashishsalve.me",
+    phone: "1234567890",
     location: "NYC, NY",
-    url: "linkedin.com/in/john-doe",
+    url: "linkedin.com/in/ashishsalve",
   },
   workExperiences: [
     {
@@ -63,10 +63,10 @@ export const END_HOME_RESUME: Resume = {
   ],
   projects: [
     {
-      project: "OpenResume",
-      date: "Spring 2023",
+      project: "Careernest",
+      date: "Winter 2025",
       descriptions: [
-        "Created and launched a free resume builder web app that allows thousands of users to create professional resume easily and land their dream jobs",
+        "Developed and deployed CareerNest, a college placement and learning management app to streamline student drives, job opportunities, and skill development.",
       ],
     },
   ],
